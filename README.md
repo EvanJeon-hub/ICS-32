@@ -1,2 +1,2 @@
 # ICS-32
-2025 Winter Quarter with Professor Moshirpour.M
+2025 Winter Quarter with Professor Mohammad Moshirpour
