@@ -32,4 +32,3 @@ Ensure that port 3001 is not blocked by a firewall.
 
 Evan-Soobin Jeon
 Email: ejeon2@uci.edu
-Student ID: 35377131
