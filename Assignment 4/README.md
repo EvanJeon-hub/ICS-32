@@ -1,4 +1,5 @@
 README for a4.py
+(Edited on 2025 4/10 - Scored 46/50)
 
 [Overview]
 This project is a graphical user interface (GUI) application for the "ICS 32 Distributed Social Messenger" built using Python's Tkinter library. The main script (a4.py) initializes the application and manages the user interface.
@@ -32,3 +33,4 @@ Ensure that port 3001 is not blocked by a firewall.
 
 Evan-Soobin Jeon
 Email: ejeon2@uci.edu
+
